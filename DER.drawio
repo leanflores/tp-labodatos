@@ -256,9 +256,6 @@
             <mxPoint x="170" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PehkxHFaKaiZ94EwI1yz-98" value="Dorsal" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="PehkxHFaKaiZ94EwI1yz-92" vertex="1">
-          <mxGeometry x="140" y="514" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="PehkxHFaKaiZ94EwI1yz-60" value="Potencia" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="PehkxHFaKaiZ94EwI1yz-92" vertex="1">
           <mxGeometry x="187.22000000000003" y="465" width="60" height="30" as="geometry" />
         </mxCell>
@@ -308,12 +305,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="154" y="453" as="sourcePoint" />
             <mxPoint x="197" y="475" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cy7GIdaN57mHfjMNYOcz-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0.908;exitY=1.016;exitDx=0;exitDy=0;entryX=0.35;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="PehkxHFaKaiZ94EwI1yz-92" source="MczNbjke3b8XTKdEE8TQ-0" target="PehkxHFaKaiZ94EwI1yz-98" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="157" y="482" as="sourcePoint" />
-            <mxPoint x="196" y="507" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cy7GIdaN57mHfjMNYOcz-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="PehkxHFaKaiZ94EwI1yz-92" source="MczNbjke3b8XTKdEE8TQ-0" target="a-vMd2pnwvqfHFY3n0QR-1" edge="1">
