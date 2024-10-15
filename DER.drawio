@@ -184,11 +184,8 @@
         <mxCell id="PehkxHFaKaiZ94EwI1yz-61" value="id_equipo" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="769.78" y="291" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PehkxHFaKaiZ94EwI1yz-63" value="ciudad" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="810" y="371" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="PehkxHFaKaiZ94EwI1yz-64" value="nombre_equipo" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="782" y="331" width="98" height="30" as="geometry" />
+          <mxGeometry x="767.82" y="361" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PehkxHFaKaiZ94EwI1yz-68" value="id_liga" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="567.87" y="50" width="70" height="30" as="geometry" />
@@ -498,12 +495,6 @@
             <mxPoint x="780" y="316" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hiNz9BJMIcgv5B_5zr5G-33" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YYfFKKFiAKvjyo3rz9iE-10" target="PehkxHFaKaiZ94EwI1yz-63" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="757" y="359" as="sourcePoint" />
-            <mxPoint x="792" y="356" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0UGBwercofSBJN0_JMD6-0" value="tiempo" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="10" y="692.25" width="60" height="30" as="geometry" />
         </mxCell>
@@ -531,9 +522,6 @@
             <mxPoint x="142" y="303" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0UGBwercofSBJN0_JMD6-12" value="estadio" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="792" y="406" width="67" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="0UGBwercofSBJN0_JMD6-13" value="equipo_local" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="14" y="268.38" width="92" height="30" as="geometry" />
         </mxCell>
@@ -541,12 +529,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="337" as="sourcePoint" />
             <mxPoint x="142" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0UGBwercofSBJN0_JMD6-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.98;exitY=0.907;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YYfFKKFiAKvjyo3rz9iE-10" target="0UGBwercofSBJN0_JMD6-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="757" y="377" as="sourcePoint" />
-            <mxPoint x="820" y="396" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3vTBnN2EE8FwOCxIaM6A-0" value="resultado" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
