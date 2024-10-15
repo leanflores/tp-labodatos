@@ -355,8 +355,8 @@
         <mxCell id="mJSXQ_e0RXDichNKoICz-2" value="id temporada" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="260" y="761" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mJSXQ_e0RXDichNKoICz-4" value="fecha" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="40" y="190" width="60" height="30" as="geometry" />
+        <mxCell id="mJSXQ_e0RXDichNKoICz-4" value="fecha_partido" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="14" y="190" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mJSXQ_e0RXDichNKoICz-8" value="id_partido" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="52" y="150" width="70" height="30" as="geometry" />
@@ -420,7 +420,7 @@
           <mxGeometry y="6.09" width="134.67" height="75.75" as="geometry" />
         </mxCell>
         <mxCell id="hiNz9BJMIcgv5B_5zr5G-15" value="id_gol" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="10" y="703.25" width="60" height="30" as="geometry" />
+          <mxGeometry x="10" y="693.84" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hiNz9BJMIcgv5B_5zr5G-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hiNz9BJMIcgv5B_5zr5G-15" target="hiNz9BJMIcgv5B_5zr5G-8" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -511,7 +511,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0UGBwercofSBJN0_JMD6-0" value="tiempo" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="23" y="741" width="60" height="30" as="geometry" />
+          <mxGeometry x="14" y="730" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0UGBwercofSBJN0_JMD6-7" value="&lt;div&gt;Jugador_en&lt;/div&gt;&lt;div&gt;_plantel&lt;br&gt;&lt;/div&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="798.47" y="685.25" width="110" height="66" as="geometry" />
@@ -556,7 +556,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3vTBnN2EE8FwOCxIaM6A-0" value="resultado" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="311" width="60" height="30" as="geometry" />
+          <mxGeometry x="30" y="309" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3vTBnN2EE8FwOCxIaM6A-1" value="goles_visitante" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="18" y="345" width="82" height="32" as="geometry" />
@@ -583,11 +583,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3vTBnN2EE8FwOCxIaM6A-7" value="equipo_que_anoto" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="776" width="112" height="34" as="geometry" />
+          <mxGeometry x="40" y="801" width="112" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="3vTBnN2EE8FwOCxIaM6A-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3vTBnN2EE8FwOCxIaM6A-7" target="hiNz9BJMIcgv5B_5zr5G-8">
+        <mxCell id="3vTBnN2EE8FwOCxIaM6A-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3vTBnN2EE8FwOCxIaM6A-7" target="hiNz9BJMIcgv5B_5zr5G-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="93" y="766" as="sourcePoint" />
+            <mxPoint x="113" y="733" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3vTBnN2EE8FwOCxIaM6A-9" value="fecha_gol" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3vTBnN2EE8FwOCxIaM6A-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.37;entryY=0.865;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3vTBnN2EE8FwOCxIaM6A-9" target="hiNz9BJMIcgv5B_5zr5G-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="84" y="755" as="sourcePoint" />
             <mxPoint x="113" y="733" as="targetPoint" />
           </mxGeometry>
         </mxCell>
