@@ -185,7 +185,7 @@
           <mxGeometry x="769.78" y="291" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PehkxHFaKaiZ94EwI1yz-64" value="nombre_equipo" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="767.82" y="361" width="98" height="30" as="geometry" />
+          <mxGeometry x="782" y="331" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PehkxHFaKaiZ94EwI1yz-68" value="id_liga" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="567.87" y="50" width="70" height="30" as="geometry" />
